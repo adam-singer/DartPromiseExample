@@ -1,0 +1,2 @@
+Some sample code that uses Promise to compute fibonacci index values. 
+http://www.dartlang.org/docs/api/Promise.html#Promise::Promise
